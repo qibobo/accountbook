@@ -23,7 +23,7 @@
 		<releases> <enabled>true</enabled> </releases> <snapshots> <enabled>true</enabled> 
 		</snapshots> </pluginRepository> </pluginRepositories> -->
 	<properties>
-		<spring.version>5.2.3.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<mybatis.version>3.5.4</mybatis.version>
 		<p6spy.version>3.8.7</p6spy.version>
 		<mybatis-spring.version>2.0.3</mybatis-spring.version>
